@@ -1,3 +1,5 @@
+###
+
 <div align="center">
   <img height="150" src="https://github.com/jayc13/jayc13/assets/2935783/591a81b2-ab8f-44c4-bc46-86b7c519b0a1"  />
 </div>
@@ -27,7 +29,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayc13&theme=city_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="220" alt="top langs"  />
 </div>
 
-### ✍️ Random Dev Quote
+# ✍️ Random Dev Quote
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=city_light" height="220" alt="Dev Quote"  />
