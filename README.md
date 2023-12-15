@@ -24,18 +24,6 @@
 
 # 📊 GitHub Stats:
 <div align="center">
-  
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=jayc13&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=jayc13&theme=light&hide_border=false&include_all_commits=true&count_private=true&show_icons=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api?username=jayc13&theme=light&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" height="220" alt="GitHub stats" />
-  </picture>
 
   <picture>
     <source
@@ -47,18 +35,6 @@
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img src="https://streak-stats.demolab.com?user=jayc13&locale=en&mode=daily&hide_border=false&border_radius=5&order=3&include_all_commits=true&count_private=true" height="220" alt="Gstreak graph" />
-  </picture>
-
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jayc13&hide_border=false&include_all_commits=true&count_private=true&layout=compact&show_icons=true&theme=dark"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jayc13&hide_border=false&include_all_commits=true&count_private=true&layout=compact&show_icons=true&theme=light"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayc13&hide_border=false&include_all_commits=true&count_private=true&layout=compact&show_icons=true" height="220" alt="top langs" />
   </picture>
 
 </div>
