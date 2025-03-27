@@ -47,13 +47,13 @@
 <div align="center">
   <picture>
     <source
-      srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"
+      srcset="https://random-quotes-flax.vercel.app/api/quote.svg?theme=dark"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light"
+      srcset="https://random-quotes-flax.vercel.app/api/quote.svg?theme=light"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal" height="220" alt="Dev Quote" />
+    <img src="https://random-quotes-flax.vercel.app/api/quote.svg" height="220" alt="Dev Quote" />
   </picture>
 </div>
