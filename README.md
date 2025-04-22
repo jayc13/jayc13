@@ -45,15 +45,15 @@
 # ✍️ Random Dev Quote
 
 <div align="center">
-  <picture>
+  <picture>https://random-quotes-api.javiercaballero.info/
     <source
-      srcset="https://random-quotes-flax.vercel.app/api/quote.svg?theme=dark"
+      srcset="https://random-quotes-api.javiercaballero.info/random.svg?theme=dark"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://random-quotes-flax.vercel.app/api/quote.svg?theme=light"
+      srcset="https://random-quotes-api.javiercaballero.info/random.svg?theme=light"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://random-quotes-flax.vercel.app/api/quote.svg" height="220" alt="Dev Quote" />
+    <img src="https://random-quotes-api.javiercaballero.info/random.svg" height="220" alt="Dev Quote" />
   </picture>
 </div>
