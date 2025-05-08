@@ -47,13 +47,13 @@
 <div align="center">
   <picture>https://random-quotes-api.javiercaballero.info/
     <source
-      srcset="https://random-quotes-api.javiercaballero.info/random.svg?theme=dark"
+      srcset="https://random-quotes-api.javiercaballero.info/random.svg?theme=dark&api-token=qtk_stQ8lhriEH5FSM51T9QFUU5UnTLjfJwl"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://random-quotes-api.javiercaballero.info/random.svg?theme=light"
+      srcset="https://random-quotes-api.javiercaballero.info/random.svg?theme=light&api-token=qtk_stQ8lhriEH5FSM51T9QFUU5UnTLjfJwl"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://random-quotes-api.javiercaballero.info/random.svg" height="220" alt="Dev Quote" />
+    <img src="https://random-quotes-api.javiercaballero.info/random.svg?api-token=qtk_stQ8lhriEH5FSM51T9QFUU5UnTLjfJwl" height="220" alt="Dev Quote" />
   </picture>
 </div>
