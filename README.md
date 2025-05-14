@@ -21,6 +21,26 @@
 
 Software Development in Test with 11+ years of experience in delivering high-quality software. Proficient in test automation, creation of automation frameworks, implementing quality process at organization level. Collaborate closely with development teams to ensure timely and reliable product releases.
 
+
+# 💼 My Latest Projects
+
+### Random Quotes
+Random Quotes is a simple web application that generates and displays random quotes for inspiration and motivation. With a minimalistic design and seamless functionality, it provides users with a fresh quote at the click of a button. Perfect for daily inspiration! Create entirely by IA with minimal human intervention.
+
+- https://github.com/jayc13/random-quotes-mono-repo
+
+### Scipio
+Personal Finance Management System
+
+- https://github.com/KnightProgrammers/scipio-project
+
+### Automation Project - Java Appium Tests
+This is a basic Automation Java project that is part of o CI/CD project for an Android Mobile app
+
+- https://github.com/jayc13/automation-java-appium-android-for-notes
+
+- https://github.com/jayc13/android-notes-app-for-automation
+
 # 💻 Tech Stack:
 
 ## Languages
@@ -59,17 +79,3 @@ Software Development in Test with 11+ years of experience in delivering high-qua
     <img src="https://random-quotes-api.javiercaballero.info/random.svg?api-token=qtk_stQ8lhriEH5FSM51T9QFUU5UnTLjfJwl" height="220" alt="Dev Quote" />
   </picture>
 </div>
-
-# My Latest Projects
-
-### Project Name 1
-Brief description of Project 1.
-[Link to Project 1]
-
-### Project Name 2
-Brief description of Project 2.
-[Link to Project 2]
-
-### Project Name 3
-Brief description of Project 3.
-[Link to Project 3]
