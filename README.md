@@ -19,6 +19,8 @@
 
 <h1 align="center">Hi I'm JayC 🍷</h1>
 
+Software Development in Test with 11+ years of experience in delivering high-quality software. Proficient in test automation, creation of automation frameworks, implementing quality process at organization level. Collaborate closely with development teams to ensure timely and reliable product releases.
+
 # 💻 Tech Stack:
 
 ## Languages
@@ -57,3 +59,17 @@
     <img src="https://random-quotes-api.javiercaballero.info/random.svg?api-token=qtk_stQ8lhriEH5FSM51T9QFUU5UnTLjfJwl" height="220" alt="Dev Quote" />
   </picture>
 </div>
+
+# My Latest Projects
+
+### Project Name 1
+Brief description of Project 1.
+[Link to Project 1]
+
+### Project Name 2
+Brief description of Project 2.
+[Link to Project 2]
+
+### Project Name 3
+Brief description of Project 3.
+[Link to Project 3]
