@@ -67,7 +67,7 @@ This is a basic Automation Java project that is part of o CI/CD project for an A
 ## ✍️ Random Dev Quote
 
 <div align="center">
-  <picture>https://random-quotes-api.javiercaballero.info/
+  <picture>
     <source
       srcset="https://random-quotes-api.javiercaballero.info/random.svg?theme=dark&api-token=qtk_stQ8lhriEH5FSM51T9QFUU5UnTLjfJwl"
       media="(prefers-color-scheme: dark)"
